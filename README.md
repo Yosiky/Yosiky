@@ -1,5 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F711&width=435&lines=Hi+there!+It's+my+profile)](https://git.io/typing-svg)
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
 ![ My profile on LeetCode ](https://leetcard.jacoblin.cool/eestelle?ext=activity&theme=unicorn)
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=nord)
 
