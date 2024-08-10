@@ -2,7 +2,7 @@
 
 ![ My profile on LeetCode ](https://leetcard.jacoblin.cool/eestelle?ext=activity&theme=unicorn)
 
-![snake animation](https://github.com/Yosiky/Yosiky/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **Yosiky/Yosiky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
