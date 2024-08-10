@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F711&width=435&lines=Hi+there!+It's+my+profile)](https://git.io/typing-svg)
 
-![ My profile on LeetCode ](https://leetcard.jacoblin.cool/eestell?ext=activity&theme=unicorn)
+![ My profile on LeetCode ](https://leetcard.jacoblin.cool/eestelle?ext=activity&theme=unicorn)
 
 <!--
 **Yosiky/Yosiky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
